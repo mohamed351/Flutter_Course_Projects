@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078756904358",
+    "project_id": "flutterchat-23b59",
+    "storage_bucket": "flutterchat-23b59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078756904358:android:9303078b58f49e9a981367",
+        "android_client_info": {
+          "package_name": "com.mohamedbeshriAmer.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078756904358-m56fes41eqs0i4j7b8aj5f69sllr7ub7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTP2GBsSpKhgGS0f-fgdbWnj-xvjYkiCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078756904358-m56fes41eqs0i4j7b8aj5f69sllr7ub7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
